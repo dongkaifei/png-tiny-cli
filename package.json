@@ -10,7 +10,7 @@
     "bin"
   ],
   "scripts": {
-    "release": "npm release",
+    "pub": "npm publish --registry=https://registry.npmjs.org/",
     "test": "node index.js"
   },
   "author": "",
